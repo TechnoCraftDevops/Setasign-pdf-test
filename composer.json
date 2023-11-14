@@ -1,0 +1,18 @@
+{
+    "name": "mohammed/extract_pdf",
+    "autoload": {
+        "psr-4": {
+            "Mohammed\\ExtractPdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammed",
+            "email": "technocraft.devops@gmail.com"
+        }
+    ],
+    "require": {
+        "setasign/fpdi": "^2.4",
+        "setasign/fpdf": "^1.8"
+    }
+}
